@@ -1,1 +1,1 @@
-# js mdn 
+# Java Script MDN
